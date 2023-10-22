@@ -1,5 +1,3 @@
-import 'dotenv/config';
-
 import express from 'express';
 
 import pkg from 'express-openid-connect';
